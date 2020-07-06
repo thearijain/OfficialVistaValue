@@ -41,3 +41,6 @@ Having animations on this app was very important to us as we wanted to be able t
 
 ## Charts Cocoapod
  
+ 
+## In Conclusion:
+Creating (slaving) over this app was super fun. With a time crunch of a week we had to cut features out that we are pushing to future iterations of the app, but having a week and a dream made it a great project to pick up and spend my free time on. Download it now @ ... 

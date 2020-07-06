@@ -12,7 +12,7 @@ At a high level we set a plan:
 
 • Integrate cocoapods into our project
 
-• Practice flat UI/UX design
+• Practice flat UI/UX design and create great animations
 
 • Transition away from storyboarding designs and move towards a programmatic approach
 
@@ -21,6 +21,16 @@ At a high level we set a plan:
 
 ## Demo
 
+
+<img src="https://github.com/thearijain/OfficialVistaValue/blob/master/Pictures/Keys.png" width="355" height="300" img align="right">
+
+
 ## Data Persistence
 After discussing different options to persist data, we decided the most logical as well as the the easiest would be to implement Apple's native User Defaults. This way the data is stored locally on your device and you don't have to have Wi-Fi or data to use the app. Since user defaults is essentially just a backend dictionary where data is stored by keys we made a key for every category we allotted as an expense option. Putting this in a struct allowed us to access the keys easily throughout any swift file. 
-<img src="https://github.com/thearijain/OfficialVistaValue/blob/master/Pictures/Keys.png" width="500" height="280" img align="right">
+
+
+
+
+## Lottie Animations!
+Having animations on this app was very important to us as we wanted to be able to have an extremely user friendly and receptive UI. ((((INSERT GIF OF CHECK MARK ANIMATION HERE)))
+ 

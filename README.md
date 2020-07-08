@@ -7,6 +7,8 @@ Me and [@kshriv](https://github.com/kshriv) finished up another year at GT and r
 
 ## The Goal
 At a high level we set a plan:
+• Money management can be quite stressful, we wanted to alleviate the stress surrounding such a topic by creating a fun UI
+
 • Implement data persistence in Swift
 
 • Integrate cocoapods into our project
